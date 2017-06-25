@@ -1,0 +1,15 @@
+﻿  Cheating device.cpp
+  Generating Code...
+  Compiling...
+  Cheating deviceDlg.cpp
+e:\毛概作弊器\cheating device\cheating device\cheating devicedlg.cpp(115): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\毛概作弊器\cheating device\cheating device\cheating devicedlg.cpp(116): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\毛概作弊器\cheating device\cheating device\cheating devicedlg.cpp(117): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\毛概作弊器\cheating device\cheating device\cheating devicedlg.cpp(118): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\毛概作弊器\cheating device\cheating device\cheating devicedlg.cpp(119): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\毛概作弊器\cheating device\cheating device\cheating devicedlg.cpp(120): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\毛概作弊器\cheating device\cheating device\cheating devicedlg.cpp(121): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\毛概作弊器\cheating device\cheating device\cheating devicedlg.cpp(122): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Cheating device.vcxproj -> E:\毛概作弊器\Cheating device\Debug\Cheating device.exe
+  Cheating device.vcxproj -> E:\毛概作弊器\Cheating device\Debug\Cheating device.pdb (Partial PDB)
